@@ -7,3 +7,6 @@ function test(){
     const variable = "222";
 }
 ```
+
+- hello world
+- say my name
